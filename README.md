@@ -65,7 +65,7 @@ Right now I'm focused on becoming a well-rounded engineer — strong in **Java f
 
 > *"The best code doesn't just work — it communicates intent, scales gracefully, and solves the right problem."*
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;— Vineeth JR
+> &nbsp;&nbsp;&nbsp;&nbsp;— Vineeth J
 
 ---
 ## `SKILLS` &nbsp;
@@ -112,8 +112,8 @@ Right now I'm focused on becoming a well-rounded engineer — strong in **Java f
 | 01 | **[AttendX](https://github.com/vineethjr)** | AI-powered attendance system with facial recognition, real-time tracking, and auto-generated reports. Reduces manual effort by 90%. | `Python` `AI/ML` `Face Recognition` `OpenCV` |
 | 02 | **[VJR Associates Website](https://github.com/vineethjr)** | Professional business website for VJR Associates — clean UI, responsive design, brand-aligned aesthetics. | `HTML` `CSS` `JavaScript` |
 | 03 | **[Soul Script](https://github.com/vineethjr)** | E-commerce platform for gifts and crafts — product listings, cart flow, and a warm handcrafted feel. | `HTML` `CSS` `JavaScript` |
-| 04 | **[Branded Shoe Site](https://github.com/vineethjr)** | High-converting e-commerce UI for a shoe brand — modern design, smooth transitions, mobile-first. | `HTML` `CSS` `JavaScript` |
-| 05 | **[Cakes Land](https://github.com/vineethjr)** | Elegant static website for a bakery — clean layout, appealing visuals, and responsive structure. | `HTML` `CSS` |
+| 04 | **[Shoe-Store-UI](https://github.com/vineethjr)** | High-converting e-commerce UI for a shoe brand — modern design, smooth transitions, mobile-first. | `HTML` `CSS` `JavaScript` |
+| 05 | **[Cake-Shop-UI](https://github.com/vineethjr)** | Elegant static website for a bakery — clean layout, appealing visuals, and responsive structure. | `HTML` `CSS` |
 | 06 | **[Github-101](https://github.com/vineethjr/Github-101)** | Beginner-friendly contribution guide — helping newcomers make their first open source contribution. | `Markdown` `Git` `GitHub` |
 
 </details>
