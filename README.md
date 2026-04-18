@@ -25,24 +25,52 @@
 
 ## `ABOUT ME` &nbsp;
 
-```typescript
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=A78BFA&left=true&vCenter=true&width=500&height=30&lines=Mathematician+turned+developer.;Building+real+things+that+matter.;Always+learning.+Always+shipping." alt="Typing SVG" />
+<br/>
+
+```javascript
 const vineeth = {
-  name        : "Vineeth J",
-  username    : "vineethjr",
-  role        : "Pursuing MCA at CUSAT",
-  background  : "BSc Mathematics Graduate",
-  location    : "Kollam,Kerala,India",
-  interests   : ["Full-Stack Development", "Cybersecurity", "AI/ML Tools"],
-  goal        : "₹1L+/month IT Professional — building the skills to get there",
-  currentFocus: "Deepening expertise in Java, Cloud & Security",
-  funFact     : "A mathematician who codes — I see every bug as an unsolved equation.",
+  name         : "Vineeth JR",
+  username     : "vineethjr",
+  role         : "MCA Student @ CUSAT  |  BSc Mathematics Graduate",
+  location     : "Kollam, Kerala, India 🇮🇳",
+  interests    : ["Full-Stack Development", "Cybersecurity", "AI/ML Tools"],
+  goal         : "Break into the ₹1L+/month bracket — skill by skill, commit by commit",
+  currentFocus : "Java  ·  Cloud Architecture  ·  Security Engineering",
+  funFact      : "I see every bug as an unsolved equation — and I always solve equations.",
 };
 ```
 
-> *"The best code is the kind that solves real problems elegantly."*
+<br/>
+
+<details>
+<summary><b>↳ &nbsp;More about me</b></summary>
+
+<br/>
+
+I'm a postgraduate computer science student who took an unconventional route — from pure mathematics into software engineering. That background gives me an edge: I approach problems structurally, break systems down to first principles, and build with precision.
+
+Right now I'm focused on becoming a well-rounded engineer — strong in **Java full-stack**, aware of **cloud infrastructure**, and sharp on **security fundamentals**. I ship real projects, earn real certifications, and track every step toward my goal.
+
+> I don't just want a job in tech. I want to be someone companies compete to hire.
+
+</details>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square&labelColor=1a1a2e&color=22c55e" />
+  <img src="https://img.shields.io/badge/Focus-Data Science%20·%20Web Development%20·%20Security-a78bfa?style=flat-square&labelColor=1a1a2e&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Based%20in-Kollam%2C%20Kerala%2C%20India-3b82f6?style=flat-square&labelColor=1a1a2e&color=3b82f6" />
+</p>
+
+<br/>
+
+> *"The best code doesn't just work — it communicates intent, scales gracefully, and solves the right problem."*
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;— Vineeth JR
 
 ---
-
 ## `SKILLS` &nbsp;
 
 ### ⬡ Languages
