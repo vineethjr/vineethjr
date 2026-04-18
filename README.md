@@ -27,7 +27,7 @@
 
 ```javascript
 const vineeth = {
-  name         : "Vineeth JR",
+  name         : "Vineeth J",
   username     : "vineethjr",
   role         : "MCA Student @ CUSAT  |  BSc Mathematics Graduate",
   location     : "Kollam, Kerala, India 🇮🇳",
