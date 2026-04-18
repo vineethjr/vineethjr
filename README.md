@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vineeth%20JR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Turning%20Logic%20into%20Impact&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vineeth%20J&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Turning%20Logic%20into%20Impact&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 
 ---
 
-## `{ about_me }` &nbsp;
+## `ABOUT ME` &nbsp;
 
 ```typescript
 const vineeth = {
