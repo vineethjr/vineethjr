@@ -1,141 +1,197 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=200&section=header&text=Vineeth%20JR&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20MCA%20%40%20CUSAT&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vineeth%20JR&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Turning%20Logic%20into%20Impact&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/vineethjr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=Building+AI-powered+apps+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Cybersecurity+Explorer+%F0%9F%94%90;MCA+Student+%40+CUSAT+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hi+there%2C+I'm+Vineeth+JR+%F0%9F%91%8B;MCA+Student+%40+CUSAT+%7C+BSc+Mathematics;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+Tomorrow's+Tech+%E2%80%94+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=vineethjr&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/vineethjr?style=flat-square&color=3fb950&labelColor=21262d)](https://github.com/vineethjr?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/vineethjr?style=flat-square&color=d29922&labelColor=21262d)](https://github.com/vineethjr)
+<!-- PROFILE VIEWS + FOLLOWERS + OPEN TO WORK -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vineethjr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/vineethjr?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-4ade80?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work"/>
+</p>
 
 </div>
 
 ---
 
-## 👾 About Me
+## `{ about_me }` &nbsp;
 
-```python
-class VineethJR:
-    def __init__(self):
-        self.name        = "Vineeth JR"
-        self.username    = "vineethjr"
-        self.pronouns    = "he/him"
-        self.education   = "MCA @ CUSAT | BSc Mathematics"
-        self.location    = "Kerala, India 🇮🇳"
-        self.interests   = ["Full-Stack Dev", "AI/ML", "Cybersecurity", "Open Source"]
-        self.currently   = "Building AttendX — AI-powered attendance system"
-        self.learning    = ["TypeScript", "Cloud Computing", "Ethical Hacking"]
-        self.ask_me_about= ["Python", "Web Dev", "AI Tools", "Math + CS"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
-
-me = VineethJR()
-me.say_hi()
+```typescript
+const vineeth = {
+  name        : "Vineeth JR",
+  username    : "vineethjr",
+  role        : "MCA Student @ CUSAT",
+  background  : "BSc Mathematics Graduate",
+  location    : "Kerala, India 🇮🇳",
+  interests   : ["Full-Stack Development", "Cybersecurity", "AI/ML Tools"],
+  goal        : "₹1L+/month IT Professional — building the skills to get there",
+  currentFocus: "Deepening expertise in Java, Cloud & Security",
+  funFact     : "A mathematician who codes — I see every bug as an unsolved equation.",
+};
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+> *"The best code is the kind that solves real problems elegantly."*
 
 ---
 
-## 🚀 Featured Projects
+## `{ skills }` &nbsp;
 
-<div align="center">
+### ⬡ Languages
 
-<a href="https://github.com/vineethjr/AttendX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethjr&repo=AttendX&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
-<a href="https://github.com/vineethjr/VJR-ASSOCIATES-WEBSITE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethjr&repo=VJR-ASSOCIATES-WEBSITE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+</p>
 
-<a href="https://github.com/vineethjr/attendx-future">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethjr&repo=attendx-future&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
-<a href="https://github.com/vineethjr/Branded-Shoe-Site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethjr&repo=Branded-Shoe-Site&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-</a>
+### ⬡ Frontend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" />
+</p>
+
+### ⬡ Backend & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,linux&theme=dark" />
+</p>
+
+### ⬡ Soft Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Leadership-7c3aed?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Management-6d28d9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multitasking-5b21b6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Management-4c1d95?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-7c3aed?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## `{ featured_projects }` &nbsp;
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vineethjr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github&show=reviews,prs_merged" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethjr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="40%"/>
+<details open>
+<summary><b>🚀 Click to expand project showcase</b></summary>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vineethjr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=8b949e&dates=8b949e" width="60%"/>
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 01 | **[AttendX](https://github.com/vineethjr)** | AI-powered attendance system with facial recognition, real-time tracking, and auto-generated reports. Reduces manual effort by 90%. | `Python` `AI/ML` `Face Recognition` `OpenCV` |
+| 02 | **[VJR Associates Website](https://github.com/vineethjr)** | Professional business website for VJR Associates — clean UI, responsive design, brand-aligned aesthetics. | `HTML` `CSS` `JavaScript` |
+| 03 | **[Soul Script](https://github.com/vineethjr)** | E-commerce platform for gifts and crafts — product listings, cart flow, and a warm handcrafted feel. | `HTML` `CSS` `JavaScript` |
+| 04 | **[Branded Shoe Site](https://github.com/vineethjr)** | High-converting e-commerce UI for a shoe brand — modern design, smooth transitions, mobile-first. | `HTML` `CSS` `JavaScript` |
+| 05 | **[Cakes Land](https://github.com/vineethjr)** | Elegant static website for a bakery — clean layout, appealing visuals, and responsive structure. | `HTML` `CSS` |
+| 06 | **[Github-101](https://github.com/vineethjr/Github-101)** | Beginner-friendly contribution guide — helping newcomers make their first open source contribution. | `Markdown` `Git` `GitHub` |
+
+</details>
+
+---
+
+## `{ github_stats }` &nbsp;
+
+<div align="center">
+
+<a href="https://github.com/vineethjr">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vineethjr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true" />
+</a>
+<a href="https://github.com/vineethjr">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethjr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=vineethjr&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=ffffff" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## `{ contribution_activity }` &nbsp;
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vineethjr/vineethjr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vineethjr/vineethjr/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vineethjr/vineethjr/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo using [Platane/snk](https://github.com/Platane/snk) to activate the animation.
+
+---
+
+## `{ activity_graph }` &nbsp;
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineethjr&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" />
+</div>
+
+---
+
+## `{ certifications }` &nbsp;
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vineethjr&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%"/>
+| Certification | Status |
+|---|---|
+| 🔐 Cybersecurity Assessment | ✅ Certified |
+| 🤖 AI Tools Specialist | ✅ Certified |
+| 💻 Full Stack Web Development in Java | ✅ Certified |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `{ connect }` &nbsp;
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineethjr&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true" width="100%"/>
+<a href="mailto:vineethjrbusiness@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vineethjrbusiness@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/vineeth-j-988062281">
+  <img src="https://img.shields.io/badge/LinkedIn-Vineeth%20JR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/vjr.fx?igsh=emQ4cXEzZWV4dWlm">
+  <img src="https://img.shields.io/badge/Instagram-vjr.fx-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;
+<a href="https://github.com/vineethjr">
+  <img src="https://img.shields.io/badge/GitHub-vineethjr-333?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `{ mindset }` &nbsp;
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethjr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vineethjr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://vineethjr.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineethjr@gmail.com)
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Don't just learn to code.                             ║
+║    Learn to think, architect, and build.                 ║
+║    The salary follows the skill."                        ║
+║                                                          ║
+║                                        — Vineeth JR      ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -143,11 +199,8 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/vineethjr/vineethjr/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&text=Thanks+for+visiting!&fontSize=16&fontColor=8b949e&fontAlignY=65" width="100%"/>
+<sub>Crafted with precision · Driven by purpose · Built to grow</sub>
 
 </div>
