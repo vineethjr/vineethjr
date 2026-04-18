@@ -25,9 +25,6 @@
 
 ## `ABOUT ME` &nbsp;
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=A78BFA&left=true&vCenter=true&width=500&height=30&lines=Mathematician+turned+developer.;Building+real+things+that+matter.;Always+learning.+Always+shipping." alt="Typing SVG" />
-<br/>
-
 ```javascript
 const vineeth = {
   name         : "Vineeth JR",
@@ -229,6 +226,6 @@ Right now I'm focused on becoming a well-rounded engineer — strong in **Java f
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>Crafted with precision · Driven by purpose · Built to grow</sub>
+<sub>Every bug I fix comes back with friends 🤝🐛</sub>
 
 </div>
