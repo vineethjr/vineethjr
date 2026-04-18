@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hi+there%2C+I'm+Vineeth+JR+%F0%9F%91%8B;MCA+Student+%40+CUSAT+%7C+BSc+Mathematics;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+Tomorrow's+Tech+%E2%80%94+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Hi+there%2C+I'm+Vineeth+J+%F0%9F%91%8B;MCA+Student+%40+CUSAT+%7C+BSc+Mathematics;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Building+Tomorrow's+Tech+%E2%80%94+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,11 +27,11 @@
 
 ```typescript
 const vineeth = {
-  name        : "Vineeth JR",
+  name        : "Vineeth J",
   username    : "vineethjr",
-  role        : "MCA Student @ CUSAT",
+  role        : "Pursuing MCA at CUSAT",
   background  : "BSc Mathematics Graduate",
-  location    : "Kerala, India 🇮🇳",
+  location    : "Kollam,Kerala,India",
   interests   : ["Full-Stack Development", "Cybersecurity", "AI/ML Tools"],
   goal        : "₹1L+/month IT Professional — building the skills to get there",
   currentFocus: "Deepening expertise in Java, Cloud & Security",
@@ -43,7 +43,7 @@ const vineeth = {
 
 ---
 
-## `{ skills }` &nbsp;
+## `SKILLS` &nbsp;
 
 ### ⬡ Languages
 
@@ -75,7 +75,7 @@ const vineeth = {
 
 ---
 
-## `{ featured_projects }` &nbsp;
+## `FEATURED PROJECTS` &nbsp;
 
 <details open>
 <summary><b>🚀 Click to expand project showcase</b></summary>
@@ -95,7 +95,7 @@ const vineeth = {
 
 ---
 
-## `{ github_stats }` &nbsp;
+## `GITHUB STATS` &nbsp;
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const vineeth = {
 
 ---
 
-## `{ contribution_activity }` &nbsp;
+## `CONTRIBUTION ACTIVITY` &nbsp;
 
 <div align="center">
   <picture>
@@ -130,7 +130,7 @@ const vineeth = {
 
 ---
 
-## `{ activity_graph }` &nbsp;
+## `ACTIVITY GRAPH` &nbsp;
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineethjr&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" />
@@ -138,7 +138,7 @@ const vineeth = {
 
 ---
 
-## `{ certifications }` &nbsp;
+## `CERTIFICATIONS` &nbsp;
 
 <div align="center">
 
@@ -152,7 +152,7 @@ const vineeth = {
 
 ---
 
-## `{ connect }` &nbsp;
+## `CONNECT` &nbsp;
 
 <div align="center">
 
@@ -178,7 +178,7 @@ const vineeth = {
 
 ---
 
-## `{ mindset }` &nbsp;
+## `MINDSET` &nbsp;
 
 <div align="center">
 
