@@ -1,0 +1,3 @@
+# 📘 Daily Learning Log
+
+## Entries
