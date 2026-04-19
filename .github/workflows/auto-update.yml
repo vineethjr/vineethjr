@@ -1,0 +1,32 @@
+name: Smart Daily Update
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # once daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update daily learning
+        run: |
+          echo "- $(date '+%Y-%m-%d'): Learned something new 🚀" >> daily-learning.md
+
+      - name: Update project progress
+        run: |
+          echo "- $(date '+%Y-%m-%d'): Worked on projects 💻" >> project-progress.md
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "vineethjr"
+          git config --global user.email "your-email@example.com"
+          git add .
+          git commit -m "daily progress update"
+          git push
