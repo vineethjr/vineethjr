@@ -125,16 +125,17 @@ Right now I'm focused on becoming a well-rounded engineer — strong in **Java f
 <div align="center">
 
 <a href="https://github.com/vineethjr">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vineethjr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true" />
-</a>
-<a href="https://github.com/vineethjr">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethjr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vineethjr&show_icons=true&theme=midnight-purple&cache_seconds=0" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/vineethjr">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethjr&layout=compact&theme=midnight-purple&cache_seconds=0" />
+</a>
+
+<br><br>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=vineethjr&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=vineethjr&theme=midnight-purple" />
 </a>
 
 </div>
